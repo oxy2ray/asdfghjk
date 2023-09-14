@@ -4,3 +4,6 @@
 [submodule "luci-app-wechatpush"]
 	path = luci-app-wechatpush
 	url = https://github.com/tty228/luci-app-wechatpush.git
+[submodule "openwrt-fullconenat"]
+	path = openwrt-fullconenat
+	url = https://github.com/llccd/openwrt-fullconenat.git

@@ -16,3 +16,6 @@
 [submodule "luci-app-udp2raw"]
 	path = luci-app-udp2raw
 	url = https://github.com/sensec/luci-app-udp2raw.git
+[submodule "openwrt-udp2raw"]
+	path = openwrt-udp2raw
+	url = https://github.com/sensec/openwrt-udp2raw.git

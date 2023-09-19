@@ -19,3 +19,6 @@
 [submodule "openwrt-udp2raw"]
 	path = openwrt-udp2raw
 	url = https://github.com/sensec/openwrt-udp2raw.git
+[submodule "luci-app-poweroff"]
+	path = luci-app-poweroff
+	url = https://github.com/esirplayground/luci-app-poweroff
